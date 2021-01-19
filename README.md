@@ -4,14 +4,15 @@ Thing about me!
 
 ### <center> Bonjour!👋 This is Nithin Sri </center>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-## <b> I'm Nithin Sri, A Student at Velammal college of Engineering and Technology. An Aspiring mind with lot of Dreams!  </b>
-- 🔭 I’m currently working on Web Development Projects!
-- 🌱 I’m currently learning Machine learning using Python
-- 👯 Interested to learn and Enhance my skills
-- 💬 My Email ID : nithinsri2301@gmail.com
-- 😄 I'm currently learning everything!
-- ⚡ Professional Language: English
-
+## <b> A Student at Velammal college of Engineering and Technology. An Aspiring mind with lot of Dreams!  </b>
+<ul>
+<li> 🔭 I’m currently working on Web Development Projects! </li>
+<li> 🌱 I’m currently learning Machine learning using Python </li>
+<li> 👯 Interested to learn and Enhance my skills </li>
+<li> 💬 My Email ID : nithinsri2301@gmail.com </li>
+<li> 😄 I'm currently learning everything! </li>
+<li> ⚡ Professional Language: English </li>
+</ul>
 ### 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
