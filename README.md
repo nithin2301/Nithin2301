@@ -3,24 +3,25 @@ Thing about me!
 
 
 ### <center> Bonjour!👋 This is Nithin Sri :) </center>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="220" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="250" />
 
 
 <b><h2> A Student at Velammal college of Engineering and Technology. <br> An Aspiring mind with lot of Dreams!  </h2></b>
 
 <ul>
-<li> 🔭 I’m currently working on Web Development Projects! </li>
-<li> 🌱 I’m currently learning Machine learning using Python </li>
-<li> 👯 Interested to learn and Enhance my skills </li>
-<li> 💬 My Email ID : nithinsri2301@gmail.com </li>
+  <li> 🔭 I’m currently working on <b> Web Development Projects! </b></li>
+  <li> 🌱 I’m currently learning <b> Machine learning using Python </b> </li>
+<li> 👯 I'm looking to collaborate on <b> WEB DEVELOPMENT PROJECTS </b> </li>
+  <li> 💬 My Email ID : <b> nithinsri2301@gmail.com </b> </li>
 <li> 😄 Happy to Learn! </li>
 <li> ⚡ Professional Language: English </li>
 </ul>
 
 
 
-### My Linkedin Profile:
+### Reach me Through:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Hackerrank" width="22px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEUNFB4A6mT///8AAAANEh4NABwA62QNABoADBgEDhoNABg0OD8ImkgA72YFv1UnLDIAABC4ubvCw8Xv7/AAAAj29vaPkZOcnaAAABIKdjsHnkmztLW+v8ESGSLs8eGCAAAA/0lEQVR4nO3cOQ7CMBBAUcDsENaEnftfkwYapkEWCsR6r80U/nIVR3GvBwAAAAAAAAAAAAAAAAAAANCeYZ62ljdLm3d1nKrDUJq9no0yTVoKvDeDd4eQmI5haH96BZ6rfo7xpZ3E6SKsfbBNoXAXp9bPTZxcqnGOajXvSuEybw8VKlSoUKFChQoVKlSoUKFChQoVKlSoUOHvC68puJVV2OyD+HGj04WfUahQoUKFChUqVKhQoUKFCrteWP47fvnnNOWftSlUqFChQoUKFSpUqFChQoUKFSpUqFChwqzCP/8fv/w7Fcq/F+Mb/vxuEwAAAAAAAAAAAAAAAAAAAKDTHoDCYDr8qkOBAAAAAElFTkSuQmCC" />
 <br />
 
 
@@ -38,4 +39,5 @@ Thing about me!
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/nithin-sri-329a8b1bb/
+[HackerRank]: https://www.hackerrank.com/nithinsri2301
 
