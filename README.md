@@ -29,9 +29,9 @@ Thing about me!
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTlmgBQHKsJ3wiNo6n_xtPTnxXDqtIqH00w&usqp=CAU" />
-<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BAHXD0dwrCvkGkN9BgB6kmRQN-PvKATXkg&usqp=CAU" />
-<img align="left" alt="PHP" width="30x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZcP-uiLaGgivxfJzUeb7iwMPMPbQztAMgA&usqp=CAU" />
-<img align="left" alt="Mysql" width="30px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+<img align="left" alt="Java" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BAHXD0dwrCvkGkN9BgB6kmRQN-PvKATXkg&usqp=CAU" />
+<img align="left" alt="PHP" width="35x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZcP-uiLaGgivxfJzUeb7iwMPMPbQztAMgA&usqp=CAU" />
+<img align="left" alt="Mysql" width="35px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <br />
 <br/>
 
