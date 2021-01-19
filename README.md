@@ -1,6 +1,3 @@
-# Nithin-Bio
-Thing about me!
-
 
 ### <center> Bonjour!👋 This is Nithin Sri :) </center>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="250" />
