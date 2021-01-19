@@ -21,7 +21,7 @@ Thing about me!
 
 ### Reach me Through:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Hackerrank" width="22px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEUNFB4A6mT///8AAAANEh4NABwA62QNABoADBgEDhoNABg0OD8ImkgA72YFv1UnLDIAABC4ubvCw8Xv7/AAAAj29vaPkZOcnaAAABIKdjsHnkmztLW+v8ESGSLs8eGCAAAA/0lEQVR4nO3cOQ7CMBBAUcDsENaEnftfkwYapkEWCsR6r80U/nIVR3GvBwAAAAAAAAAAAAAAAAAAANCeYZ62ljdLm3d1nKrDUJq9no0yTVoKvDeDd4eQmI5haH96BZ6rfo7xpZ3E6SKsfbBNoXAXp9bPTZxcqnGOajXvSuEybw8VKlSoUKFChQoVKlSoUKFChQoVKlSoUOHvC68puJVV2OyD+HGj04WfUahQoUKFChUqVKhQoUKFCrteWP47fvnnNOWftSlUqFChQoUKFSpUqFChQoUKFSpUqFChwqzCP/8fv/w7Fcq/F+Mb/vxuEwAAAAAAAAAAAAAAAAAAAKDTHoDCYDr8qkOBAAAAAElFTkSuQmCC" />
+<img align="left" alt="Hackerrank" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJrUCvzQgPGvweI14m5KodBx_mIuXECDkw&usqp=CAU" />
 <br />
 
 
@@ -35,6 +35,7 @@ Thing about me!
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BAHXD0dwrCvkGkN9BgB6kmRQN-PvKATXkg&usqp=CAU" />
 <img align="left" alt="PHP" width="30x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZcP-uiLaGgivxfJzUeb7iwMPMPbQztAMgA&usqp=CAU" />
 <img align="left" alt="Mysql" width="30px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />
 <br />
 <br/>
 
