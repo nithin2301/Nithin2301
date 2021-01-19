@@ -11,7 +11,7 @@ Thing about me!
 <li> 🌱 I’m currently learning Machine learning using Python </li>
 <li> 👯 Interested to learn and Enhance my skills </li>
 <li> 💬 My Email ID : nithinsri2301@gmail.com </li>
-<li> 😄 I'm currently learning everything! </li>
+<li> 😄 Happy to Learn! </li>
 <li> ⚡ Professional Language: English </li>
 </ul>
 
@@ -27,8 +27,11 @@ Thing about me!
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="C" width="26px" src="C:\Users\user\Desktop\nithin\OTHER THINGS\c lang.png" />
+<img align="left" alt="Java" width="26px" src="C:\Users\user\Desktop\nithin\OTHER THINGS\java.png" />
+<img align="left" alt="PHP" width="26px" src="C:\Users\user\Desktop\nithin\OTHER THINGS\php.png" />
+<img align="left" alt="Mysql" width="26px" src="C:\Users\user\Desktop\nithin\OTHER THINGS\mysql.png" />
 <br />
 <br/>
 
