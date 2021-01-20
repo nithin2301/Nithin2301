@@ -3,14 +3,14 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="250" />
 
 
-<b><h2> A Student at Velammal college of Engineering and Technology. <br> An Aspiring mind with lot of Dreams!  </h2></b>
+<b><h2> A Student at Velammal college of Engineering and Technology. <br> An Aspiring mind with lot of Dreams! </h2></b>
 
 <ul>
   <li> 🔭 I’m currently working on <b> Web Development Projects! </b></li>
   <li> 🌱 I’m currently learning <b> Machine learning using Python </b> </li>
-<li> 👯 I'm looking to collaborate on <b> WEB DEVELOPMENT PROJECTS </b> </li>
-  <li> 💬 My Email ID : <b> nithinsri2301@gmail.com </b> </li>
-<li> 😄 Happy to Learn! </li>
+<li> 👯 I'm looking to collaborate on <b> Web Development Projects </b> </li>
+  <li> 💬 Ask me about : Java, Python, Javascript, Boostrap </li>
+<li> 😄 Reach me: <b> @nithinsri2301@gmail.com </b> </li>
 <li> ⚡ Professional Language: English </li>
 </ul>
 
